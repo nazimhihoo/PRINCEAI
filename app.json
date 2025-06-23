@@ -1,9 +1,9 @@
 {
-  "name": "PRINCEAI",
-  "description": "whatsapp user bot",
-  "repository": "https://github.com/DASTAGHIR/PRINCEAI",
-  "logo": "https://files.catbox.moe/76879w.png",
-  "success_url": "https://github.com/DASTAGHIR/PRINCEAI",
+  "name": "NazimX-MD",
+  "description": "whatsapp user bot by `Decent-Nazim`",
+  "repository": "https://github.com/nazimhihoo/PRINCEAI",
+  "logo": "https://files.catbox.moe/fhk2br.jpg",
+  "success_url": "https://github.com/nazimhihoo/PRINCEAI",
   "keywords": [
     "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
     "termux", "superbot", "multi-device", "md", "official", "javascript", "princebot"
@@ -19,17 +19,17 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-BOT"
+      "value": "NazimX-MD"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "639129985130,DEVELOPER"
+      "value": "923463206754,DEVELOPER"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
       "required": false,
-      "value": "🤍"
+      "value": "💋"
     },
     "MODE": {
       "description": "choose bot mode public or private",
@@ -39,12 +39,12 @@
     "BUSINESS_MODE": {
       "description": "If your deploying bot in WhatsApp Bussinus then make it 👉🏻 true",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     "MENU_IMAGE": {
       "description": "put image url,url 👈🏻 like this as much as you want for menu image or leave it blank for default images",
       "required": false,
-      "value": ""
+      "value": ""https://files.catbox.moe/fhk2br.jpg
     },
     "PREFIX": {
       "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
@@ -74,7 +74,7 @@
     "autoreactions_emojies": {
       "description": "put your favourite emojies for AutoReactions on chats or make it empty for all default emojies",
       "required": false,
-      "value": "♥️,🤗,❤️,💞,❣️,💙,💛,🤍,💚,😍,🥰,💝,💖,💗,💓,💞,💕,❣️,💘,💟,🖤,🤎,💜,💫,🌸"
+      "value": "💋, 🥵"
     },
     "VAR_APP": {
       "description": "put same app name you entered above",
@@ -94,17 +94,17 @@
     "StatusLikes": {
       "description": "make it true to auto likes on status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "StatusEmojies": {
       "description": "Add your favorites emojies for status likes",
       "required": false,
-      "value": "♥️,🤗,❤️,💞,❣️,💙,💛,🤍,💚,😍,🥰,💝,💖,💗,💓,💞,💕,❣️,💘,💟,🖤,🤎,💜,💫,🌸"
+      "value": "💋"
     },
     "STATUS_MSG": {
       "description": "Status reply msg",
       "required": false,
-      "value": "Your Status has been seen by Prince bot"
+      "value": "Your Status has been seen by NazimX-MD bot"
     },
     "REJECTSCALLS": {
       "description": "type in truemsg get call reject with message or just make it true to only reject the call",
@@ -114,7 +114,7 @@
     "CALLMSG": {
       "description": "Call msg for reject calls",
       "required": false,
-      "value": "For now calls are restricted by my owner"
+      "value": "Hi dear I am NazimX-MD_Bot,For now calls are restricted by my owner `Decent-Nazim`"
     },
     "ANTIFAKE_USERS": {
       "description": "Add numbers to a variable. The bot will remove users from the group for these numbers. If a number isn’t in the variable, the bot will not take any action. To target all numbers, use this format: 1,2,3,4,5,6,7,8,9. ",
@@ -124,12 +124,12 @@
     "PACK_NAME": {
       "description": "put your stickers pack name",
       "required": false,
-      "value": "Prince♥️"
+      "value": "NazimX-MD✓"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "_*Successfully Downloaded✔️✔️✔️*_"
+      "value": "_*Successfully Downloaded✔️By✔️NazimX-MD✔️*_"
     } 
   },
   "buildpacks": [
