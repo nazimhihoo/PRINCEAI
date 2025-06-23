@@ -1,6 +1,6 @@
 #!/bin/bash
-BOT_DIR="PRINCEMD"
-BOT_REPO="https://github.com/DASTAGHIR/$BOT_DIR"
+BOT_DIR="NazimX-MD"
+BOT_REPO="https://github.com/nazimhihoo/$BOT_DIR"
 
 GREEN='\033[32m'
 BOLD='\033[1m'
