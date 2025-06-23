@@ -1,10 +1,10 @@
 {
-    "bot-name": "PRINCEAI",
+    "bot-name": "NazimX-MD",
     "description": "whatsapp user bot",
-    "logo": "https://qu.ax/lwgPL.jpg",
+    "logo": "https://files.catbox.moe/fhk2br.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://shortsession.onrender.com",
-    "owner-verification":"shoroking38@gmail.com",
+    "owner-verification":"muhammadnazimrind@gmail.com",
   
       "env": {
     "SESSION_ID": {
@@ -15,17 +15,17 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-BOT"
+      "value": "NazimX-MD"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "6281220527432,Prince♥️The Developer"
+      "value": "923463206754, Decent-Nazim♥️The Developer"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
       "required": false,
-      "value": "🤍"
+      "value": "💋"
     },
     "MODE": {
       "description": "choose bot mode public or private",
@@ -60,7 +60,7 @@
     "autoreactions_emojies": {
       "description": "put your favourite emojies for AutoReactions on chats or make it empty for all default emojies",
       "required": false,
-      "value": "💛,🤍,💗,♥️,💞"
+      "value": "🤔,🫣,😘,🤭,💞"
     },
     "STATUSVIEW": {
       "description": "make it true to auto view status and likes",
@@ -70,12 +70,12 @@
     "StatusEmojies": {
       "description": "Add your favorites emojies for status likes",
       "required": false,
-      "value": "♥️,🤗,❤️,💞,❣️,💙,💛,🤍,💚,😍,🥰,💝,💖,💗,💓,💞,💕,❣️,💘,💟,🖤,🤎,💜,💫,🌸"
+      "value": "💋"
     },
     "STATUS_MSG": {
       "description": "Status reply msg",
       "required": false,
-      "value": "Your Status has been seen by Prince bot"
+      "value": "Your Status has been seen by NazimX-MD bot"
     },
     "REJECTSCALLS": {
       "description": "reject calls",
@@ -85,7 +85,7 @@
     "CALLMSG": {
       "description": "Call msg for reject calls",
       "required": false,
-      "value": "For now calls are restricted by my owner"
+      "value": "> I am `NazimX-MD` bot,Now the calls are restricted from my owner *Decent-Nazim*"
     },
     "ANTIFAKE_USERS": {
       "description": "Add numbers to a variable. The bot will remove users from the group for these numbers. If a number isn’t in the variable, the bot will not take any action. To target all numbers, use this format: 1,2,3,4,5,6,7,8,9. ",
@@ -95,12 +95,12 @@
     "PACK_NAME": {
       "description": "put your stickers pack name",
       "required": false,
-      "value": "Prince♥️"
+      "value": "NazimX-MD"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "_*📥DOWNLOADED SUCCESSFULLY✅*_"
+      "value": "_*📥DOWNLOADED SUCCESSFULLY✅ From NazimX-MD*_"
     } 
   }
 }
